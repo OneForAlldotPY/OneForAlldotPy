@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![Git_Hub](https://github.com/OneForAlldotPY/OneForAlldotPy/assets/138803282/7fd42622-f8b6-4176-a819-0bc173b0bd58)
-- <img src="https://github.com/OneForAll/OneForAlldotPy/raw/main/icons/python-icon.png" alt="Python Icon" width="30" height="30" /> Python
-
+<i class="fa-brands fa-python"></i>
 <!--
 **OneForAlldotPY/OneForAlldotPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
