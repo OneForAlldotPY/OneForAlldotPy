@@ -1,8 +1,8 @@
 ### Hi there 👋
 ![Git_Hub](https://github.com/OneForAlldotPY/OneForAlldotPy/assets/138803282/7fd42622-f8b6-4176-a819-0bc173b0bd58)
 
-![ELK Icon](https://github.com/OneForAlldotPY/OneForAlldotPy/raw/main/icons/elk.png) ELK
-<i class="fa-brands fa-python"></i> Python
+<img src="https://github.com/OneForAlldotPY/OneForAlldotPy/raw/main/icons/elk.png" alt="ELK Icon" width="20" height="20" /> ELK
+
 <!--
 **OneForAlldotPY/OneForAlldotPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
