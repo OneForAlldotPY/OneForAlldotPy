@@ -1,5 +1,5 @@
 # OneForAll
-**'CyberSpectre Guardian (Blue, DFIR and Red Team)'**
+**``CyberSpectre Guardian (Blue, DFIR and Red Team)``**
 
 ---
 
