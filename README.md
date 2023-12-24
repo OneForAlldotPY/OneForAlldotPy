@@ -18,12 +18,11 @@
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/OneForAlldotPY/OneForAlldotPy/blob/main/icons//icons8-linux-terminal-48.png"/>
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/OneForAlldotPY/OneForAlldotPy/blob/main/icons//icons8-powershell-ise-48.png"/>
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/OneForAlldotPY/OneForAlldotPy/blob/main/icons//icons8-wireshark-64.png"/>
-
-  <div align="left" style="margin-top: 20px;">
-    <img src="https://github.com/OneForAlldotPY/OneForAlldotPy/raw/main/icons/Git_Hub4.gif" alt="GitHub Image">
-  </div>
 </div>
-  
+
+<div align="left" style="margin-top: 20px;">
+  <img src="https://github.com/OneForAlldotPY/OneForAlldotPy/raw/main/icons/Git_Hub4.gif" alt="GitHub Image">
+</div>
 <!--
 **OneForAlldotPY/OneForAlldotPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Git_Hub](https://github.com/OneForAlldotPY/OneForAlldotPy/assets/138803282/7fd42622-f8b6-4176-a819-0bc173b0bd58)
