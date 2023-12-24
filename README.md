@@ -1,15 +1,18 @@
-### Greetings, I'm OneForAll - Your Cybersecurity Practitioner
-![Git_Hub](https://github.com/OneForAlldotPY/OneForAlldotPy/assets/138803282/7fd42622-f8b6-4176-a819-0bc173b0bd58)
+# OneForAll
+**'CyberSpectre Guardian (Blue, DFIR and Red Team)'**
 
-## Tools I Work With
+---
+
+### Languages and Tools
 <div style="display: flex; align-items: center;">
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img src="https://github.com/OneForAlldotPY/OneForAlldotPy/raw/main/icons/elk.png" alt="ELK Icon" width="20" height="20" />
   <img src="https://github.com/OneForAlldotPY/OneForAlldotPy/blob/main/icons/kali.png" alt="ELK Icon" width="30" height="30" />
 </div>
   
 <!--
 **OneForAlldotPY/OneForAlldotPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Git_Hub](https://github.com/OneForAlldotPY/OneForAlldotPy/assets/138803282/7fd42622-f8b6-4176-a819-0bc173b0bd58)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
