@@ -6,6 +6,8 @@
 ### Languages and Tools
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
   <img src="https://github.com/OneForAlldotPY/OneForAlldotPy/raw/main/icons/elk.png" alt="ELK Icon" width="20" height="20" />
   <img src="https://github.com/OneForAlldotPY/OneForAlldotPy/blob/main/icons/kali.png" alt="ELK Icon" width="30" height="30" />
 </div>
