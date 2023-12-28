@@ -17,10 +17,6 @@
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/OneForAlldotPY/OneForAlldotPy/blob/main/icons/icons8-burp-suite-50.png"/>
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  
-  
-  
-  
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/OneForAlldotPY/OneForAlldotPy/blob/main/icons//icons8-wireshark-64.png"/>
 </div>
 
