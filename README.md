@@ -5,8 +5,7 @@
 
 ## Tools of the trade
 
-Armed with a diverse set of tools and languages, my arsenal includes Python for its versatility, Kali for those intense session and sec operations, PowerShell and Bash for scripting magic, and a touch of ELK stack for data enlightenment. Whether it's deciphering the secrets of the Linux terminal or dancing through the realms of Wireshark, I navigate the cyber landscape with finesse.
-
+Equipped with a diverse array of tools and programming languages, my repertoire encompasses Python for its versatility, Kali for intensive sessions and security operations, PowerShell and Bash for sophisticated scripting capabilities, and a judicious integration of the ELK stack for comprehensive data enlightenment. Managing tasks from deciphering Linux terminal intricacies to handling Wireshark complexities, I navigate the cyber landscape with a focus on precision and skill.
 ## The crucible of Cyber
 
 In the journey of cybersecurity, I adhere to the philosophy that life is a succession of successive failures. Each setback, each anomaly uncovered, contributes to the refinement of our defenses - but who we are defending ourselves from? Failures are not defeats but rather the crucible in which resilience and wisdom are forged.
