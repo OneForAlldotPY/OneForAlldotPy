@@ -5,7 +5,7 @@
 
 ## Tools of the trade
 
-Armed with a diverse set of tools and languages, my arsenal includes Python for its versatility, Kali Linux for those intense operations, PowerShell and Bash for scripting magic, and a touch of ELK stack for data enlightenment. Whether it's deciphering the secrets of the Linux terminal or dancing through the realms of Wireshark, I navigate the cyber landscape with finesse
+Armed with a diverse set of tools and languages, my arsenal includes Python for its versatility, Kali for those intense session and sec operations, PowerShell and Bash for scripting magic, and a touch of ELK stack for data enlightenment. Whether it's deciphering the secrets of the Linux terminal or dancing through the realms of Wireshark, I navigate the cyber landscape with finesse.
 
 ### Languages and Tools
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
